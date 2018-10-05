@@ -6,3 +6,5 @@ You can access the completed build at $CI_PROJECT_NAME .whatever.your.url.is.com
 
 
 -Richard
+
+https://www.youtube.com/watch?v=gHlRpZJ768U
